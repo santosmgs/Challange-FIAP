@@ -1,2 +1,2 @@
 # challange
-Todas as sptints
+Todas as sptints feitas até agora
