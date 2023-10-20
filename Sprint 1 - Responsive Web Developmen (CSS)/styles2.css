@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter';
+}
+
+body {
+    background-image:linear-gradient(#00ddff, #004cff);
+    width: 100%;
+    height: 1500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-quest {
+    display: flex;
+    justify-content: center;
+}
+
+.card-quest {
+    width: 450px;
+    height: 565px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background-color: white;
+    border-radius: 30px;
+}
+.card-quest p{
+    font-size: 14px;
+}
+
+
+.card-quest img {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tags {
+    margin: 20px;
+}
