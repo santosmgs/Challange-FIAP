@@ -1,5 +1,5 @@
 # Challange com a Porto Seguro - FIAP
-Todas as sptints 1
+Todas as sptints
 
 Linguagens e ferramentas usandas:
 
