@@ -9,3 +9,4 @@ Linguagens e ferramentas usandas:
 - Oracle Database
 - Astah (Planejamentos)
 - Watson IBM Cloud
+- Node-RED
